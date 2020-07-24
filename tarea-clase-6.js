@@ -160,3 +160,5 @@ function validarIngresoEdades(edades) {
 
 
 $form.onsubmit = validarFormulario();
+
+
